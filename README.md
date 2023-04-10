@@ -1,4 +1,4 @@
-# RProject
+# R Project
 Bike Share Company Data Analysis
 
 Description: This is a capstone project as a part of my Google Data Analytics Professional Certificate course. 
