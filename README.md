@@ -6,6 +6,6 @@ To understand how annual members and casual riders use bike-share program differ
 
 [Dashboard](https://rawcdn.githack.com/surabhichandran/RProject/967f1cb1b594a98fc1027a7c7c126045ad6b6a6d/case-study.html)
 
-![alt text](images/Dashboard1.PNG)
+![alt text](Dashboard1.PNG)
 
 
